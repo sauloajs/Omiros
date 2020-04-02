@@ -39,7 +39,7 @@ return [
             'host' => env('MAIL_HOST', 'smtp.gmail.com'),
             'port' => env('MAIL_PORT', 587),
             'encryption' => env('MAIL_ENCRYPTION', 'tls'),
-            'username' => 'Omiros',
+            'username' => 'contatoomiros@gmail.com',
             'password' => 'saulosilva',
         ],
 
